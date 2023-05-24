@@ -1,15 +1,23 @@
 # Comandos básicos git
 
-- `git clone https://github.com/fernandomk6/comandos-basicos-git.git`
-    > Para clonar o repositório online em uma pasta.
-- `git add . `
-    > Prepara os arquivos para o commit.
-- `git restore readme.md`
-    > Restaura o arquivo para o último commit.
-- `git commit -m "mensagem do commit"`
-    > Faz o commit.
-- `git push -u origin main`
-    > Upa os arquivos.
-- `clear` 
-    > Limpa os comandos do terminal.
+Lista dos comandos básicos do git, clonar, commitar, desfazer e etc.
+
+## Clonar o repositório
+`git clone https://github.com/fernandomk6/comandos-basicos-git.git`
+
+## Prepara os arquivos para serem "commitados"
+`git add . `
+
+## Restausa o arquivo para o último commit (desfaz alterações)
+`git restore readme.md`
+
+## "Commita" as alterações
+`git commit -m "mensagem do commit"`
+
+## Envia os arquivos para o repositório
+`git push -u origin main`
+
+## Limpa os comandos do terminal
+`clear` 
+
 
