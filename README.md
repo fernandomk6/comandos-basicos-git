@@ -1,4 +1,4 @@
-# comandos-basicos-git
+# Comandos básicos git
 
 - git clone https://github.com/fernandomk6/comandos-basicos-git.git
     Para clonar o repositorio online em uma pasta
@@ -10,3 +10,6 @@
     Fazo commit.
 - git push -u origin main
     Upa os arquivos.
+- clear 
+    Limpa os comandos do terminal
+
