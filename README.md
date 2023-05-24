@@ -6,7 +6,8 @@ Lista dos comandos básicos do git, clonar, commitar, desfazer e etc.
 `git clone https://github.com/fernandomk6/comandos-basicos-git.git`
 
 ## Prepara os arquivos para serem "commitados"
-`git add . `
+`git add . ` adiciona todos os arquivos novos/modificados ou 
+`git add readme.md` para adicionar apenas um arquivo.
 
 ## Restausa o arquivo para o último commit (desfaz alterações)
 `git restore readme.md`
